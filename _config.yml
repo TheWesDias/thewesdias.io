@@ -6,12 +6,12 @@ gems:
 # Site settings
 title: "Wesley Dias"
 description: > # this means to ignore newlines until "email:"
-   On my way
+   Programming Perls
 
 email: contato@wesdias.com
 #blog logo
-logo: "/assets/images/profile.jpg"
-float_logo: false # true, false (default)
+logo: "/assets/images/favicon2.png"
+float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/background.webp"
