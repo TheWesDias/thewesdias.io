@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "Bem vindo ao meu blog!"
 date:   2018-11-11 02:00:25
 categories: general
 tags: featured
-image: /assets/article_images/2019-11-11-welcome-to-my-blog/desktop.JPG
+image:
 ---
 
 Seja muito bem vindo ao meu blog. Sou desenvolvedor e espero contribuir para a comunidade.
