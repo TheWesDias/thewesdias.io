@@ -25,7 +25,6 @@ layout: default
 <main class="content" role="main">
 
     {% if site.tags.featured %}
-    <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
       {% for post in site.tags.featured %}
@@ -70,7 +69,7 @@ layout: default
       {% if paginator.next_page %}
         <a class="newer-posts" href={{ "/page" | prepend: site.baseurl | append: paginator.next_page }}>&larr; Older posts</a>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page-number">P&aacute;gina {{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.previous_page %}
         {% if paginator.page == 2 %}
           <a class="older-posts" href={{ "/" | prepend: site.baseurl }}>Newer posts &rarr;</a>
