@@ -45,7 +45,7 @@ body
   top: 10px
   width: $rs*3
   height: $rs*3
-  background-color: #000
+  background-color: white
   overflow: hidden
   z-index: 99
   .logo
@@ -57,6 +57,7 @@ body
     height: $rs*2
     background-size: cover
     background-repeat: no-repeat
+    color: black
 
 .teaserimage
   height: 450px
@@ -85,12 +86,12 @@ body
   @include respond-to(800)
     padding: 0 $rs
   .blog-logo
-    width: $rs*7.5
-    height: $rs*7.5
+    width: $rs*15
+    height: $rs*15
     position: absolute
     top: -$rs*3.75
     right: 50%
-    margin-right: -$rs*3.75
+    margin-right: -$rs*7.5
     background-size: cover
     border-radius: 50%
     z-index: 99
@@ -102,7 +103,7 @@ body
     box-shadow: 0 1px 1px rgba(0,0,0,0.3)
   .blog-title
     margin: 0
-    padding: $rs*5.25 $rs $rs/2
+    padding: $rs*12 $rs $rs/2
     font-size: 50px
     text-align: center
     font-weight: 700
