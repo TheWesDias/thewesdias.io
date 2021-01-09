@@ -28,7 +28,7 @@ baseurl: ""
 #twitter_handle: '@TheWesDias'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: thewesdias
 
 google_analytics: UA-129032903-1
 
