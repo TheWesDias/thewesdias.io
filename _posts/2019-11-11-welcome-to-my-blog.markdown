@@ -3,7 +3,7 @@ layout: post
 title:  "Bem vindo ao meu blog!"
 date:   2018-11-11 02:00:25
 categories: general
-tags: featured
+# tags: featured
 image:
 ---
 
