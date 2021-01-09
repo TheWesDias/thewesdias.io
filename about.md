@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Olá meu nome é Wesley Dias.
-<br/>Atualmente trabalho na IBM como FullStack Developer
+<br/>Atualmente trabalho na AME Digital como Software Engineer
 
 ### Experiência com desenvolvimento
 * Aplicações híbridas para dispositivos móveis usando Ionic
