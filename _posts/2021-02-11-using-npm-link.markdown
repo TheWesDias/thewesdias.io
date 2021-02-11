@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Usando npm link"
-date:   2020-02-11 08:50:25
+date:   2021-02-11 08:50:25
 categories: general
 tags: node, npm, yarn, package, npm link, yarn
 ---
