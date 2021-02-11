@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalando pacotes node com nome customizado"
-date:   2020-01-07 14:22:25
+date:   2021-01-07 14:22:25
 categories: general
 tags: node, npm
 ---
